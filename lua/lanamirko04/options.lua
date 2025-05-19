@@ -33,5 +33,7 @@ vim.opt.wrap = false
 vim.opt.scrolloff = 8
 vim.opt.sidescrolloff = 8
 vim.opt.guifont = "JetBrainsMono Nerd Font:h17"
+vim.opt.spell = true
+vim.opt.spelllang = { "en_us" }
 
 vim.opt.shortmess:append "c"
