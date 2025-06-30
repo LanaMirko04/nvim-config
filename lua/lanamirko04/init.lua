@@ -1,3 +1,4 @@
+require("lanamirko04.autocmds")
 require("lanamirko04.options")
 require("lanamirko04.keymaps")
 require("lanamirko04.lazy")
